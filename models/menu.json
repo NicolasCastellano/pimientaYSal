@@ -1,0 +1,32 @@
+{
+    "menus": [
+        {
+            "id": 1,
+            "nombre": "Carpaccio fresco",
+            "descripcion": "Entrada Carpaccio de salmón con cítricos",
+            "imagen": "/images/02_Dominio-Brut-Nature.jpg",
+            "precio": "U$S 65.50"
+        },
+        {
+            "id": 2,
+            "nombre": "Risotto de berenjena",
+            "descripcion": "Risotto de berenjena y queso de cabra",
+            "imagen": "/images/Risotto-berenjena-queso-cabra.jpg",
+            "precio": "U$S 47.00"
+        },
+        {
+            "id": 3,
+            "nombre": "Mousse de arroz",
+            "descripcion": "Mousse de arroz con leche y aroma de azahar",
+            "imagen": "/images/Mousse-de-arroz-con-leche.jpg",
+            "precio": "U$S 27.50"
+        },
+        {
+            "id": 4,
+            "nombre": "Espárragos blancos",
+            "descripcion": "Espárragos blancos con vinagreta de verduras y jamón ibérico",
+            "imagen": "/images/esparragos.png",
+            "precio": "U$S 37.50"
+            }
+    ]
+}
